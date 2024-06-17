@@ -24,5 +24,8 @@ Para cambiar los datos de pureba se deben modificar los archivos dentro de src/j
  pet.json //Estructura de la petición json de las mascota
 ```
 ## Ver los reportes
-Los reportes se crearLa ejecución de la prueba, producirá un reporte de prueba de Karate Framework en el directorio `target/karate-reports/karate-summary.html`.
+El reporte se genera una vez que se ejecute el proyecto y se lo puede obtener en el directorio
+`target/karate-reports/karate-summary.html`.
+
+Adicional se ha adjuntado un reporte en zip `target.zip` descoprimalo y abra el archivo , `target/karate-reports/karate-summary.html`.
 
