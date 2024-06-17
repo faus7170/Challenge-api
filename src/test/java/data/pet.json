@@ -1,0 +1,18 @@
+{
+  "id": #(~~(idpet)),
+  "category": {
+    "id": 1,
+    "name": "#(categoria)"
+  },
+  "name": "#(mascota)",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "#(raza)"
+    }
+  ],
+  "status": "#(estado)"
+}
